@@ -8,6 +8,6 @@ Introduction to the course, Python - An introduction
 Python Essentials, Programming Fundamentals
 
 #### Day3
-STD. I/O and Flow Control, Data Structures in Python (Part-1) : Mutability of Data Structures, Numbers, Strings, Lists, Tuples
+STD. I/O and Flow Control(Conditionals), Flow Control(Looping) and Introduction to Data Structures in Python (Numbers, Strings and Lists)
 
 #### Total Hours left - 32
