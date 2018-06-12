@@ -1,0 +1,20 @@
+1. Create a file and write down shebang of Bash and Perl.
+2. What happens when you open Interpreter and type dir() without any argument.
+
+Google it and write what ever you understood in 3-4 lines in your own words.
+
+3. What are builtins? (1-2 lines only)
+4. Write the code to list all of the builtins in python.
+5. Open Interpreter and type __name__ . What was the output of it?
+Google it and write in your own words 1-2 lines.
+
+
+#### How to submit ####
+
+Inside your assignment repository that you have created in your assignment 1 create a folder named Day2
+
+Create files with names as 1, 2, 3, 4, 5
+Write down corresponding answers into the files.
+Push the assignments by End of the Night (2:00 AM).
+
+# Answers may not necessarily be 100% accurate but Effort must be evident.
