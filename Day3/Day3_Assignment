@@ -1,0 +1,46 @@
+Day3 Assignment- The assignment is purely focused on making you practice the flow control in python.
+
+1. Write the shortest logic for FizzBuzz Program. (submission file name will be 1.py) (hint: if, if)
+
+Problem Statement - "Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
+
+http://wiki.c2.com/?FizzBuzzTest
+
+Check the link above.
+
+
+2. Create the following patterns for value n taken by user. Below patterns are drawn for value n=5.
+
+2a- (submission file name will be 2a.py)
+
+*
+**
+***
+****
+*****
+
+2b- (similarily submission file name will be 2b.py)
+*********
+ *******
+  *****
+   ***
+    *
+   ***I
+  *****
+ *******
+*********
+
+2c- (note: user ord/chr for practice though you can use whatever logic you like )
+(Hint: Search ords for Hindi alphabets, ie. Devanagri Props to you if you can change 1234 to hindi's numerics it will be trivial if you can do क ख ग घ ङ)
+
+कखगघङ
+1234
+कखग
+12
+क
+
+
+3. Watch a movie or do something you like do to if you have got some hours left in the day. :)
+(note: do not submit this to repository please.)
+
+#### Submission format is same as Assignment 2 ####
