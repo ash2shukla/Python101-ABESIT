@@ -1,0 +1,36 @@
+Day3 Assignment- The assignment is focused on making you familiar with the functions and usage of data types.
+
+1. Try to write your own equivalent implementation of print function from scratch.
+
+(
+Hints: print "write" whatever it needs to write on stdout.
+stdout is available through
+import sys
+sys.stdout
+
+in a file we can write using
+
+file.write("string that we need to write into the file") 
+)
+
+print signature is-
+
+print(*objects, end='\n', sep=' ', file=sys.stdout, flush=False)
+
+
+BONUS- Try to Google about flushing a data stream and try to implement flush functionality in print as well. (Pat yourself on the back if you implement it completely)
+
+
+
+2. Try to implement range function.
+
+(
+Hints: internally range is a generator that yields +1 value each time you call it while the value is less than n with increment equal to step.
+)
+
+3. isdigit() gives false if a string is in float
+Create a method isfloat(string_argument)
+That takes an argument as a string and returns True if the string argument is float else returns False.
+
+
+#### Submission format is same as Assignment 2 ####
