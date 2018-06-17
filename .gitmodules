@@ -1,6 +1,6 @@
 [submodule "Assignments/python101_sparsh"]
 	path = Assignments/python101_sparsh
 	url = https://github.com/sparsh16396/python101_sparsh
-[submodule "Assignments/Dharmendra-Python101"]
-	path = Assignments/Dharmendra-Python101
-	url = https://github.com/Mr-13/Dharmendra-Python101
+[submodule "Assignments/Dharmendra_Python101"]
+	path = Assignments/Dharmendra_Python101
+	url = https://github.com/Mr-13/Dharmendra_Python101
