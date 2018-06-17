@@ -1,0 +1,23 @@
+Day5 Assignment- 
+
+1. Implement Fraction class.
+
+Think about data modelling.
+You need to implement basic mathematical operations (USING FUNCTIONS NOT OPERATOR OVERRIDING) between two fractions.
+
+eg. 1/2 + 1/2 = 1/1
+1/2 - 1/2 = 0
+3/4 *3/4 = 9/16
+(3/4) / (3/4) = 1/1
+
+2. Write the disassembled code of the Fraction Class's object to a file.
+
+3. Read about json format. Download Check JSON.
+Read the file directly as json using 
+
+import json
+json.load method.
+
+see help(json.load) to understand what parameters to give.
+
+## Submission format is same as Day2 Assignments ## 
