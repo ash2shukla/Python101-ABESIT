@@ -17,7 +17,7 @@ Functions in Python, Data Structures in Python (Part-1) - Data Types (Except Byt
 Data Structures in Python (Part-1) - Data Types (Bytes, Type Conversions and Interview Questions), Data Structures in Python (Part-2) - Lists, Tuples, Sets, FrozenSets, Dictionaries
 
 #### Day6
-Object Oriented Programming in Python
+Exception Handling and File Handling Basics, Object Oriented Programming in Python
 
 
 #### Total Hours left - 20
