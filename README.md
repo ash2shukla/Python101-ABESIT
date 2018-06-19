@@ -19,8 +19,10 @@ Data Structures in Python (Part-1) - Data Types (Bytes, Type Conversions and Int
 #### Day6 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
 Exception Handling and File Handling Basics, Object Oriented Programming in Python (Part-1) - Introduction and some operators 
 
-#### Day7
+#### Day7 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
 Object Oriented Programming in Python (Part-2) - Recap of Part-1, Inheritance and Overloading 
 
+#### Day8 
+Modules and Packages in Python, using PIP, Accessing internet resources using requests and webscraping using beautifulsoup. 
 
-#### Total Hours left - 16
+#### Total Hours left - 12
