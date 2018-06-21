@@ -22,7 +22,10 @@ Exception Handling and File Handling Basics, Object Oriented Programming in Pyth
 #### Day7 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
 Object Oriented Programming in Python (Part-2) - Recap of Part-1, Inheritance and Overloading 
 
-#### Day8 
-Modules and Packages in Python, using PIP, Accessing internet resources using requests and webscraping using beautifulsoup. 
+#### Day8 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
+Modules and Packages in Python, using PIP. Searching for relevant modules using help and dir on external modules.
 
-#### Total Hours left - 12
+#### Day9
+Structuring a python project, Dependency management using virtualenv and docker
+
+#### Total Hours left - 8
