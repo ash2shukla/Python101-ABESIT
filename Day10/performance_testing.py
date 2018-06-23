@@ -13,7 +13,6 @@ def time_single_expressions():
 def test():
     """A function to test"""
     L = [i for i in range(100)]
-    print(L)
 
 
 if __name__ == '__main__':

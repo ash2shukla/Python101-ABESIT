@@ -16,6 +16,7 @@ def bundle_without_compression(filepaths, tarname):
     for _file in filepaths:
         tf.add(_file)
     tf.close()
+    print('done')
 
 
 def compress_to_zip(filepaths, zipname):
@@ -26,9 +27,9 @@ def compress_to_zip(filepaths, zipname):
 
 
 if __name__ == "__main__":
-    compress_string()
+    # compress_string()
     os.chdir('/home/troll/Python101-ABESIT/Syllabus')
     files = glob.glob('*')
     abs_paths = [os.path.abspath(i) for i in files]
-    bundle_without_compression(abs_paths, 'mytar')
+    # bundle_without_compression(abs_paths, 'mytar')
     compress_to_zip(abs_paths, 'myzip')

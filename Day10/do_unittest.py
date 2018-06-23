@@ -2,7 +2,7 @@ import unittest
 from do_QA import average
 
 
-class TestStatisticalFunctions(unittest.TestCase):
+class TestAverageFunction(unittest.TestCase):
 
     def test_average(self):
         self.assertEqual(average([20, 30, 70]), 40.0)

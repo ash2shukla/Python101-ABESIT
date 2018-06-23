@@ -11,4 +11,4 @@ print(random.choice([1,2,3,4]))
 
 # Create a random sample from an iterable's elements
 # Sample size should always be smaller than the population
-print(random.sample([1,2,3,4], 2))
+print(random.sample([1,2,3,4], 5))

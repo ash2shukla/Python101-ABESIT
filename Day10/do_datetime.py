@@ -25,5 +25,5 @@ def datetimes():
 
 
 if __name__ == "__main__":
-    dates()
+    # dates()
     datetimes()

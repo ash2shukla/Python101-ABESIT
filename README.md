@@ -25,7 +25,24 @@ Object Oriented Programming in Python (Part-2) - Recap of Part-1, Inheritance an
 #### Day8 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
 Modules and Packages in Python, using PIP. Searching for relevant modules using help and dir on external modules.
 
-#### Day9
+#### Day9 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
 Structuring a python project, Dependency management using virtualenv and docker
 
-#### Total Hours left - 8
+#### Day10 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
+Python STL - Recommended by Guido Von Rossum (Regex, OS tasks, Testing, urllib into, math and statistics, Testing- Unittests, doctests and Performance Testing)
+
+
+#### Total Hours Alotted - 40
+#### Total Hours left - 0
+
+### Congratulations You have completed Grammar and Vocabulary of Python Language.
+#### But remember knowing English doesn't make you Shakespeare and Knowing Python won't make you programmer.
+#### Try going in depth of the tools you come across in your life daily while working on computer.
+
+A great source of resources as well as inspiration on learning Behind the scenes of things not only in python but many other languages and domains-
+
+https://github.com/danistefanovic/build-your-own-x
+
+
+### Happy Pythoning! Adieu.
+

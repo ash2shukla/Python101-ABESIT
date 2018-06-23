@@ -28,7 +28,8 @@ def python_ls_with_grep(pattern):
     # iglob returns a generator than returning a simple list.
     # Extremely useful if we do not have an estimate of how long
     # matched content can be
-    print(glob.iglob(pattern))
+    for i in glob.iglob(pattern):
+        print(i)
 
 
 def paths():
@@ -56,6 +57,6 @@ def copy_or_move():
 if __name__ == "__main__":
     # python_basic_os()
     # python_ls()
-    # python_ls_with_grep('[a-z]{4}')
+    # python_ls_with_grep('*.py')
     # paths()
     copy_or_move()
