@@ -29,7 +29,7 @@ Modules and Packages in Python, using PIP. Searching for relevant modules using 
 Structuring a python project, Dependency management using virtualenv and docker
 
 #### Day10 <img src="https://cdn3.iconfinder.com/data/icons/simple-web-navigation/165/tick-512.png" width="25" height="25"/>
-Python STL - Recommended by Guido Von Rossum (Regex, OS tasks, Testing, urllib into, math and statistics, Testing- Unittests, doctests and Performance Testing)
+Python STL - Recommended by Guido Von Rossum (Regex, OS tasks, urllib - why use it and creating a downloader, math and statistics, Testing- Unittests, doctests and Performance Testing)
 
 
 #### Total Hours Alotted - 40
